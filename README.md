@@ -1,5 +1,7 @@
 # python-scrapy
 
+Obtain posts from http://osl.ugr.es
+
 items.py
 
 ```objectivec
